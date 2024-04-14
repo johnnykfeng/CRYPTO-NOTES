@@ -32,6 +32,11 @@
 
 ### https://mempool.space/
 **Pros**
-- Very miner focused
-	- Shows recent transactions stored in the mempool
-	- 
+- Very miner focused, shows recent transactions stored in the mempool
+- Cool visualizations of transactions with dynamic block map
+- Clean UI, with appropriate coloring and symbols
+- Best looking landing page and UI in my opinion
+- the block explorer is here: https://mempool.space/blocks
+
+**Cons**
+- Not really a con... Focus is on mempool, not on blocks or price. 
