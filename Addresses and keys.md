@@ -8,3 +8,11 @@ public key -/> private key (can go other direction)
 
 
 ![[Hash-PublicKey-to-Address.png]]
+
+
+So a private key is essentially a random number. In the block explorer, is only the public bitcoin address shown? 
+
+What is Base58
+
+
+
