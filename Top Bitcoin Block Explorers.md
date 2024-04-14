@@ -3,20 +3,35 @@
 **Pros:**
 - Clean UI, minimal design
 - initially dark mode, color theme that's similar to code editors
+- as open-source API https://github.com/Blockstream/esplora
 
 **Cons:**
 - Landing page doesn't show much stats
-- For nooby, the lack of labelling and text makes it confusing
+- For noobs, the lack of labelling and text makes it confusing
 
 ### https://bitcoinexplorer.org/
 **Pros:**
 - Dark mode available
 - arranged like stock exchange page, with main stats as a top header
+- Emphasis on showing mining pool
 
 **Cons:**
-- Each block shows the 
-
+- A bit busier, more of a personal preference
 
 ### https://www.blockchain.com/explorer
 
-Pros
+**Pros**
+- Emphasis on charts and on-chain analytics
+- Charts have simple interface, well organized
+
+**Cons**
+- Dark mode is too high contrast, better viewed in light mode
+- Pop-up ads are annoying
+- not clean or minimal, has cluttered feeling
+- Better for on-chain analytics instead of block explorer
+
+### https://mempool.space/
+**Pros**
+- Very miner focused
+	- Shows recent transactions stored in the mempool
+	- 
