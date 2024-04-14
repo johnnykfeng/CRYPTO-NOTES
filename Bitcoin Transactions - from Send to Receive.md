@@ -19,4 +19,7 @@ The TX file is broadcasts to all the btc nodes in the network. Each node checks 
 When a node receives a TX file, it keeps it in a holding area called Mempool (short for "memory pool"). This concludes the broadcasting step.
 
 ### Confirming
-Miners group the TX files together from the Mempool and create a "block". There is a limit to the number of TX files put in a block, so the TX that pays the highest mining fees are prioritized. Miners compete with each other to get their block into the blockchain. The
+Miners group the TX files together from the Mempool and create a "block". There is a limit to the number of TX files put in a block, so the TX that pays the highest mining fees are prioritized. Miners compete with each other to get their block into the blockchain, based on solving a mathematical computation. The miner with the most computational power has the best chance of winning. Once the winner is chosen, and the block is appended to the blockchain, all the TXs in the block are considered "confirmed".
+
+Metaphor
+The miners are writing the history book of btc transactions, the winner of each mining block gets the write the next page.
