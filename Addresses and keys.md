@@ -21,6 +21,7 @@ There are different hash types shown in a transactions
 - Bech32m (Taproot)
 
 
+**Legacy methods**
 P2PK = pay to public key
 P2PKH = pay to public key hash
 P2SH = pay to script hash
