@@ -17,3 +17,6 @@ The signature and TX message is grouped into a small transaction file (TX file).
 The TX file is broadcasts to all the btc nodes in the network. Each node checks the TX file and signature to verify it - like a bank that verifies your account balance before clearing your cheque. 
 
 When a node receives a TX file, it keeps it in a holding area called Mempool (short for "memory pool"). This concludes the broadcasting step.
+
+### Confirming
+Miners group the TX files together from the Mempool and create a "block". There is a limit to the number of TX files put in a block, so the TX that pays the highest mining fees are prioritized. Miners compete with each other to get their block into the blockchain. The
