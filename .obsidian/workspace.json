@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Untitled.md",
+                "file": "Finance/Bitcoin Beauty of Mathematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Untitled.md",
+                "file": "Finance/Bitcoin Beauty of Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finance/Untitled.md",
+                "file": "Finance/Bitcoin Beauty of Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finance/Untitled.md"
+                "file": "Finance/Bitcoin Beauty of Mathematics.md"
               }
             }
           },
@@ -157,12 +157,13 @@
       "spreadsheets:New Spreadsheet": false
     }
   },
-  "active": "dc3daf28fe7eb204",
+  "active": "278fa351c91fc01f",
   "lastOpenFiles": [
-    "docs",
+    "Finance/Crypto accounts.sheet",
+    "Finance/Bitcoin Beauty of Mathematics.md",
     "Untitled.md",
+    "docs",
     "Untitled 1.md",
-    "Finance/Untitled.md",
     "Learning notes/Note-taking methods/Linking Your Thinking/NeverNote.md",
     "Learning notes/Note-taking methods/Linking Your Thinking/Red Pill, Blue Pill.md",
     "Learning notes/Note-taking methods/Linking Your Thinking/Sense of Control.md",
@@ -172,7 +173,6 @@
     "Learning notes/Note-taking methods/Linking Your Thinking/The Matrix.md",
     "Journal/Work blog.md",
     "Journal/The curse of ambition and my own demons.md",
-    "Finance/Crypto accounts.sheet",
     "Tips_to_write_better.md",
     "vim_g_tricks.md",
     "Welcome.md",
@@ -195,7 +195,6 @@
     "Untitled.canvas",
     "Excalidraw",
     "Learning notes/Note-taking methods/Linking Your Thinking",
-    "Capture",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 1.canvas"
