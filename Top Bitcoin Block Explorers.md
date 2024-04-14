@@ -1,3 +1,7 @@
+---
+tags:
+  - block-explorer
+---
 
 ### https://blockstream.info/
 **Pros:**
