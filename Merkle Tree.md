@@ -4,3 +4,5 @@ Merkle trees are a pattern of hashing the transactions (leaves) of a block e.g. 
 
 One advantage of Merkle trees is that you can verify a specific transaction without downloading the entire blockchain (562 GB as of April 2024). 
 	For example, say that you wanted to verify that transaction TD is included in the block in the diagram above. If you have the root hash (HABCDEFGH), the process is like a game of sudoku: you query the network about HD, and it returns HC, HAB, and HEFGH. The Merkle tree allows you to verify that everything is accounted for with three hashes: given HAB, HC, HEFGH, and the root HABCDEFGH, HD (the only missing hash) has to be present in the data.
+
+![[Merkle_tree_example.png]]
