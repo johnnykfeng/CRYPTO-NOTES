@@ -1,11 +1,11 @@
-JKF-Crypto
-PartTimeCrypto
+## JKF-Crypto
+## PartTimeCrypto
 	Crypto content for busy people
 
-CryptoCurious
+## CryptoCurious
 	Crypto content for people stepping into the space
 
-Blockchain Explained
+## Blockchain Explained
 	Explain the deep concepts and mechanics of blockchain tech. Some code examples, with very complex topics.
 
 
