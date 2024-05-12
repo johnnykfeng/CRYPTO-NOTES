@@ -17,7 +17,15 @@ class S256Point(Point):
 		self.y.num.to_bytes(32, 'big')
 ```
 
-DER format is a bit more complicated. The signature is both the $r$ and $s$ value. They don
+The compressed SEC format is also quite simple. We just use the prefix marker '02' if y is even or '03' if y is odd, and then append the x-coordinate. 
+
+To parse the SEC formatted binary back into S256Point, the steps are as follows:
+1. Determine if SEC format is uncompressed or compressed based on the first binary byte
+	* If uncompressed, just read out the first and second halfs of the re
+2. 
+
+## DER signatures
+DER format is a bit more complicated. The signature is both the $r$ and $s$ value, and they cannot be derived from each other like $x$ and $y$ coordinates in S256 points. 
 
 Here's a screenshot of figure 4-4 in the book
 
