@@ -35,4 +35,8 @@ Here's a screenshot of figure 4-4 in the book
 ![[DER format. Figure 4-4.png]]
 
 
+## Base58 encoding for sharing public keys
+
+
+## WIF formats for passing private (secret) keys
 
